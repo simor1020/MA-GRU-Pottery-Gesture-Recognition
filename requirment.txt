@@ -1,0 +1,7 @@
+python==3.8.1
+pip install mediapipe
+pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install mediapipe -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install tensorflow -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install scikit-learn -i https://pypi.tuna.tsinghua.edu.cn/simple
+matplotlib==3.7.5
